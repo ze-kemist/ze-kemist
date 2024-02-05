@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ze-kemist
+- 👋 Hi, I’m @barno
 - 👀 I’m interested in code,
-- 🌱 I’m currently learning html5
-- 💞️ I’m looking to collaborate on a website
+- 🌱 I’m currently learning html5 and css
+- 💞️ I’m looking to collaborate on a website.
 - 📫 How to reach me ...weskeralk999@gmail.com
 
 <!---
